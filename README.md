@@ -1,4 +1,5 @@
 # My-CV.github.io
 
 
-[Resume (1).pdf](https://github.com/Yashveersoni123/My-CV.github.io/files/9447485/Resume.1.pdf)
+
+![Resume](https://user-images.githubusercontent.com/94055755/187910731-7df4f39a-1873-4e25-8443-44670a09f056.png)
